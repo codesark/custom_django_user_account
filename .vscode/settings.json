@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "../venv/bin/python",
+  "easycompile.sass": {
+    "out": "../css/",
+    "autoprefixer": "last 5 versions",
+    "compress": true,
+    "sourceMap": true,
+  }
+}
