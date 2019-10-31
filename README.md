@@ -5,7 +5,7 @@ a django app customized for giving user login and register facility by email or 
 
 Clone the repository
 ```bash
-git clone https://github.com/iamsaviay/custom_django_account_user
+git clone https://github.com/iamsavinay/custom_django_user_account
 ```
 
 cd into the directory
