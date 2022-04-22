@@ -1,5 +1,5 @@
 Babel==2.7.0
-Django==2.2.20
+Django==2.2.28
 django-phonenumber-field==3.0.1
 phonenumbers==8.10.19
 pillow>=6.2.0
